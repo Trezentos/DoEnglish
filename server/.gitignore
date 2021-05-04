@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+src/config/
+
+tmp/*
+!tmp/.gitkeep
+.env
+ormconfig.json
